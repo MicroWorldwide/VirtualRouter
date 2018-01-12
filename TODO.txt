@@ -6,4 +6,10 @@
 * http://virtualrouter.codeplex.com/license
 */
 
-Some of the icons used in this project were copied from the "Wireless Hosted Network" sample within the Microsoft Windows 7 SDK.
+TODO
+----
+- Fix Service to Automatically restart the "Hosted Network"
+when the computer is shutdown and restarted.
+
+- Get "Device Type" for Peers connected, so an appropriate
+icon can be displayed. Examples: iPod, Zune, etc.
